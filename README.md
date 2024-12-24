@@ -2,7 +2,7 @@
 
 A stylish and smooth box animation design created using HTML and CSS. This animation can be applied to buttons, cards, modals, or interactive UI elements.
 ##Demo Screenshort
-![box-animation]()
+![box-animation](https://github.com/Dirojini/box-animation/blob/1e3b5a0ea29399cf2b33c1397ee2f1d3ac3acf48/Screenshot%202024-12-24%20114343.png)
 ## Features
 
 - **Smooth Scaling and Translation**: Boxes animate with fluid scaling and movement.
